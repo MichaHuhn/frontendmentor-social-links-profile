@@ -33,8 +33,8 @@ Mobile:
 
 ### Links
 
-- Live site: [Add live site URL here](https://your-live-site-url.com)
-- Challenge solution: [Add solution URL here](https://your-solution-url.com)
+- Live site: <https://michahuhn.github.io/frontendmentor-social-links-profile>
+- Challenge solution: <https://www.frontendmentor.io/solutions/social-links-profile-using-vue-Ps-OqQsjPV>
 
 ## My process
 
